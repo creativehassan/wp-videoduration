@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/wordpress/v/akismet.svg?colorA=D14543&colorB=21759B&maxAge=2592000&style=flat&label=WordPress)](https://github.com/creativehassan/wp-videoduration)
 
 </div>
-#### ⚡️ Video Duration Plugin for WordPress (Youtube | Vimeo)
+⚡️ Video Duration Plugin for (Youtube | Vimeo)
 
 This WordPress plugin allows you to grab time duration of any video from youtube or video plateform.
 
