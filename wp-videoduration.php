@@ -16,7 +16,7 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-add_shortcode('duration-video-post-editing-shortcode', 'wp_videoduration_shortcodes');
+add_shortcode('duration-video', 'wp_videoduration_shortcodes');
 function wp_videoduration_shortcodes(){
 	global $post;
 	
@@ -45,7 +45,7 @@ function wp_videoduration_callback_function(){
 	$duration_vimeo_key = get_option( 'duration_vimeo_key');
 	?>
 	<h1> Video Duration Setting </h1>
-	<h3> Shortcode : [duration-video-post-editing-shortcode] </h3>
+	<h3> Shortcode : [duration-video] </h3>
 	<form action="" method="post" style="padding:30px;">
 	<label> Youtube API Key</label><br />
 	<input type="text" name="duration_youtube_key" class="regular-text" value="<?php echo $duration_youtube_key; ?>" placeholder="Youtube API Key" /> <a href="https://www.slickremix.com/docs/get-api-key-for-youtube/" target="_blank"> How to get API Key</a><br />
