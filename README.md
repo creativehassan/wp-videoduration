@@ -3,12 +3,12 @@
   <small><p><em><g-emoji class="g-emoji" alias="dart" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3af.png" title=":dart:">🎯</g-emoji> — Made with Love.</em></p></small>
 
 
-  <h1><code>Video Duration Plugin for WordPress (Youtube | Vimeo)</code></h1>
+  <h1><code>Video Duration Plugin for (Youtube | Vimeo)</code></h1>
 
 [![GitHub](https://img.shields.io/wordpress/v/akismet.svg?colorA=D14543&colorB=21759B&maxAge=2592000&style=flat&label=WordPress)](https://github.com/creativehassan/wp-videoduration)
 
 </div>
-⚡️ Video Duration Plugin for (Youtube | Vimeo)
+⚡️ Video Duration Plugin for WordPress (Youtube | Vimeo)
 
 This WordPress plugin allows you to grab time duration of any video from youtube or video plateform.
 
