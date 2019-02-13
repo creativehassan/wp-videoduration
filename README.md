@@ -15,7 +15,7 @@ This WordPress plugin allows you to grab time duration of any video from youtube
 ## How it works ##
 Plugin find the first video from the post content either it is youtube or vimeo video and collect its time duration from corresponding API's and save it as custom post meta. You can use it anywhere for post as 
 
-$ $duration = get_post_meta($post->ID, 'time_duration', true);
+$duration = get_post_meta($post->ID, 'time_duration', true);
 
 ## Shortcode ##
 Shortcode to use it on post [duration-video]
